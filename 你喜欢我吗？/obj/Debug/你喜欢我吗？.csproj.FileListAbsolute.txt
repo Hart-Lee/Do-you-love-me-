@@ -1,0 +1,9 @@
+E:\VSWorkspace\你喜欢我吗？\你喜欢我吗？\bin\Debug\你喜欢我吗？.exe.config
+E:\VSWorkspace\你喜欢我吗？\你喜欢我吗？\bin\Debug\你喜欢我吗？.exe
+E:\VSWorkspace\你喜欢我吗？\你喜欢我吗？\bin\Debug\你喜欢我吗？.pdb
+E:\VSWorkspace\你喜欢我吗？\你喜欢我吗？\obj\Debug\你喜欢我吗？.csprojResolveAssemblyReference.cache
+E:\VSWorkspace\你喜欢我吗？\你喜欢我吗？\obj\Debug\你喜欢我吗_.Form1.resources
+E:\VSWorkspace\你喜欢我吗？\你喜欢我吗？\obj\Debug\你喜欢我吗_.Properties.Resources.resources
+E:\VSWorkspace\你喜欢我吗？\你喜欢我吗？\obj\Debug\你喜欢我吗？.csproj.GenerateResource.Cache
+E:\VSWorkspace\你喜欢我吗？\你喜欢我吗？\obj\Debug\你喜欢我吗？.exe
+E:\VSWorkspace\你喜欢我吗？\你喜欢我吗？\obj\Debug\你喜欢我吗？.pdb
